@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+	<factura>
+		<registro>
+			<codigo_factura>1</codigo_factura>
+			<ruc_empresa>1720804432001</ruc_empresa>
+			<cedula>1720804432</cedula>
+			<nombre>Jefferson</nombre>
+			<apellido>Caiza</apellido>
+			<fecha>2021-01-20</fecha>
+			<telefono>0998546467</telefono>
+			<direccion>EL PINTADO</direccion>
+			<cantidad>1</cantidad>
+			<detalle>PELUCHE</detalle>
+			<forma_pago>EFEECTIVO</forma_pago>
+			<total>100</total>
+		</registro>
+	</factura>
